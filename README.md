@@ -2,7 +2,7 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and a recent computer science graduate from Air University, Islamabad. I like to develop cool frontends inspired frontends. I am a hobbyist photographer and love to touch grass in free time.
+Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and a recent computer science graduate from Air University, Islamabad. I like to develop cool frontends. I am a hobbyist photographer and love to touch grass in free time.
 
 ## 👯 Connect with me
 <p>
