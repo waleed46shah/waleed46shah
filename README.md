@@ -56,6 +56,9 @@ Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and
         <img alt="ReactJS"
             src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </a>
+    <a href="https://nextjs.org" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+</a>
     <a href="https://mui.com/" target="_blank">
         <img alt="Material-UI"
             src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
@@ -64,6 +67,13 @@ Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and
         <img alt="Bootstrap"
             src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
+<a href="https://www.framer.com/motion/" target="_blank">
+    <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-1F1F1F?style=for-the-badge">
+</a>
+<a href="https://github.com/pmndrs/react-three-fiber" target="_blank">
+    <img alt="React Three Fiber" src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=react&logoColor=white">
+</a>
+
     <br />
     <br />
     <summary><b>Backend Development</b></summary>
@@ -78,6 +88,13 @@ Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and
         <img alt="MongoDB"
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
+    <a href="https://prisma.io" target="_blank">
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+</a>
+<a href="https://nestjs.com" target="_blank">
+    <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+</a>
+
 </p>
 
 ## 🔥 Streak Stats
