@@ -73,7 +73,6 @@ Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and
 <a href="https://github.com/pmndrs/react-three-fiber" target="_blank">
     <img alt="React Three Fiber" src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=react&logoColor=white">
 </a>
-
     <br />
     <br />
     <summary><b>Backend Development</b></summary>
