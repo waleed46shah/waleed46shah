@@ -27,7 +27,16 @@ Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and
         <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </a>
-    <a href="https://www.python.org" target="_blank">
+    
+
+<a href="https://github.com" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</a>
+
+<a href="https://github.com" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+<a href="https://www.python.org" target="_blank">
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
