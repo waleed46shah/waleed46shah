@@ -96,10 +96,6 @@ Hello there! 👋 I'm Waleed, a Software Engineer at 1011 Technologies, LLC, and
 
 </p>
 
-## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed46shah&theme=algolia"
-        alt="waleed46shah" /></p>
-
 ## 📊 Github Stats
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Waleed's Github Stats"
