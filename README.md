@@ -19,6 +19,11 @@ Hello there! 👋 I'm Waleed, a Software Engineer at Developers' Den, Islamabad.
     </a>
 </p>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🛠️ My Skills
 
 <p>
